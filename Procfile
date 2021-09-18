@@ -1,2 +1,2 @@
  
-json-server --watch response.json
+npm run start
